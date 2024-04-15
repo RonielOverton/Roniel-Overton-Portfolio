@@ -4,7 +4,9 @@ import Image from "next/image";
 const Skills = () => {
   return (
     <div id="skills" className=" w-full lg:h-screen p-2">
-      <div className=" max-w-[1240px] mx-auto flex flex-col justify-center h-full">
+
+      <div className=" max-w-[1240px] mx-auto flex flex-col justify-center h-full text-center">
+
         <p className=" text-xl tracking-widest uppercase text-[#5651e5]">
           Skills
         </p>
@@ -14,7 +16,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/html.png"
+
+                  src="/assets/skills/html.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
@@ -29,7 +33,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/css.png"
+
+                  src="/assets/skills/css.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
@@ -44,7 +50,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/javascript.png"
+
+                  src="/assets/skills/javascript.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
@@ -59,7 +67,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/react.png"
+
+                  src="/assets/skills/react.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
@@ -74,7 +84,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/angular.png"
+
+                  src="/assets/skills/angular.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
@@ -89,7 +101,9 @@ const Skills = () => {
             <div className=" grid grid-cols-2 gap-4 justify-center items-center ">
               <div className=" m-auto">
                 <Image
-                  src="/assets/skills/ruby.png"
+
+                  src="/assets/skills/ruby.jpg"
+
                   width="64"
                   height="64"
                   alt="/"
