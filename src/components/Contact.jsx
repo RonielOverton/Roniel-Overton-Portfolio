@@ -8,30 +8,26 @@ import Link from "next/link";
 const Contact = () => {
   return (
     <div id="contact" className=" w-full lg:h-screen">
-
       <div className=" max-w-[1240px] m-auto py-14 w-full text-center">
         <p className=" text-xl tracking-widest uppercase text-[#5651e5]">
           Contact
         </p>
         <h2 className=" py-2">Get In Touch</h2>
 
-    
         <div className=" grid lg:grid-cols-5 gap-8">
           {/* left */}
 
           <div className=" col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className=" lg:p-4 h-full">
               <div>
-
                 {/* <img
                   className="rounded-xl hover:scale-105 ease-in duration-300"
                   src="https://plus.unsplash.com/premium_photo-1696942353136-c3735fadc15a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YmxhY2slMjAlMjBvbiUyMGNvbXB1dGVyfGVufDB8fDB8fHww"
                   alt="/"
                 /> */}
-
               </div>
               <div>
-                <h2 className=" py-2">Name here</h2>
+                <h2 className=" py-2">Roniel Overton</h2>
                 <p>FullStack Developer</p>
                 <p className="py-4">
                   I am available for freelance or fulltime positions. Contact me
