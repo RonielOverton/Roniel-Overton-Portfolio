@@ -8,7 +8,7 @@ export default function Main() {
     <div id="home" className="w-full h-full md:h-screen text-center">
       <div className="max-w-[1240px] w-full md:h-full mx-auto p-20 flex justify-center items-center">
         <div>
-          <p className="w-full h-full uppercase text-sm tracking-widest text-gray-600 ">
+          <p className="w-full md:h-full uppercase text-sm tracking-widest text-gray-600 ">
             Let's build something legendary together
           </p>
           <h1 className="py-4 text-gray-700">
