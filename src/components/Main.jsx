@@ -5,8 +5,8 @@ import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 export default function Main() {
   return (
-    <div id="home" className="w-full h-full md:h-screen text-center">
-      <div className="max-w-[1240px] w-full md:h-full mx-auto p-20 flex justify-center items-center">
+    <div id="home" className="w-full h-full  p-20 text-center">
+      <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center text-center">
         <div>
           <p className="w-full h-full uppercase text-sm tracking-widest text-gray-600 ">
             Let's build something legendary together
@@ -24,7 +24,7 @@ export default function Main() {
             Github
           </p>
 
-          <div className="flex items-center justify-between md:max-w-[70%] md:m-auto py-4 px-4">
+          <div class="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className=" sm:max-w-[20%] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
               <a
                 href="https://www.linkedin.com/in/roniel-overton/"
