@@ -20,11 +20,11 @@ const Contact = () => {
           <div className=" col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className=" lg:p-4 h-full">
               <div>
-                {/* <img
+                <img
                   className="rounded-xl hover:scale-105 ease-in duration-300"
                   src="https://plus.unsplash.com/premium_photo-1696942353136-c3735fadc15a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YmxhY2slMjAlMjBvbiUyMGNvbXB1dGVyfGVufDB8fDB8fHww"
                   alt="/"
-                /> */}
+                />
               </div>
               <div>
                 <h2 className=" py-2">Roniel Overton</h2>
