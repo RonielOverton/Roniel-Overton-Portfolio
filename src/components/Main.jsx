@@ -24,8 +24,8 @@ export default function Main() {
             Github
           </p>
 
-          <div class="flex items-center justify-between max-w-[330px] m-auto py-4">
-            <div className=" sm:max-w-[20%] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+          <div class="flex items-center justify-between max-w-[330px] m-auto py-8">
+            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
               <a
                 href="https://www.linkedin.com/in/roniel-overton/"
                 target="_blank"
@@ -34,13 +34,13 @@ export default function Main() {
               </a>
             </div>
 
-            <div className=" sm:max-w-[10%] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+            <div className="rounded-full shadow-lg shadow-gray-600 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
               <a href="https://github.com/RonielOverton" target="_blank">
                 <FaGithub />
               </a>
             </div>
 
-            <div className=" sm:max-w-[10%] rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300">
+            <div className="rounded-full shadow-lg shadow-gray-600 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
               <a href="mailto:ronielo86@gmail.com" target="_blank">
                 <AiOutlineMail />
               </a>
