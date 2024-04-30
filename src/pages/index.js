@@ -8,12 +8,10 @@ import Contact from "@/components/Contact";
 
 import Head from "next/head";
 
-
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-
     <div>
       <Head>
         <title>Roniel's Portfolio</title>
@@ -25,8 +23,6 @@ export default function Home() {
       <Skills />
       <Projects />
       <Contact />
-
     </div>
-
   );
 }
